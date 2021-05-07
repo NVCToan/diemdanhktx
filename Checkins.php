@@ -107,7 +107,7 @@ class Checkins extends Controller
         $checkins = $this->getCheckinsBefore($picktime);
 
         $i = 0;
-        $temp[$i++] = array('STT', 'Student', 'Type', 'Time', 'Room', 'School');
+        $temp[$i++] = array('STT', 'Student', 'Type', 'Time', 'Room', 'School', 'RFID_Serial');
         foreach ($checkins as $checkin) {
             $studentName = $checkin->student->name;
             $type = Lang::get('thienvu.comaydorm::lang.checkin.types.' . $checkin->type);
@@ -116,6 +116,7 @@ class Checkins extends Controller
             $time = $date->format('H:i d/m/Y');
             $room = $checkin->student->room->name;
             $school = $checkin->student->school->name;
+            $rfid_serial = $checkin->student->card->rfid_serial
             $temp[$i] = array($i, $studentName, $type, $time, $room, $school);
 
             $i++;
