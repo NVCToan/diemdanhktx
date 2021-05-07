@@ -69,6 +69,7 @@ adsdasdasdasda
 
 
         Thm dong nay
+        Sua them dong nay nua
         $checkin->student_id = $student->id;
         $checkin->save();
 
