@@ -16,7 +16,7 @@ class Checkins extends Controller
     public $implement = ['Backend\Behaviors\ListController'];
 
     public $listConfig = 'config_list.yaml';
-
+adsdasdasdasda
     public function __construct()
     {
         parent::__construct();
@@ -66,6 +66,9 @@ class Checkins extends Controller
         } else {
             $checkin->type = 'O';
         }
+
+
+        Thm dong nay
         $checkin->student_id = $student->id;
         $checkin->save();
 
