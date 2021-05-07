@@ -117,7 +117,7 @@ class Checkins extends Controller
             $room = $checkin->student->room->name;
             $school = $checkin->student->school->name;
             $rfid_serial = $checkin->student->card->rfid_serial;
-            $temp[$i] = array($i, $studentName, $type, $time, $room, $school);
+            $temp[$i] = array($i, $studentName, $type, $time, $room, $school, $rfid_serial);
 
             $i++;
         }
