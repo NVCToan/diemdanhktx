@@ -107,7 +107,7 @@ class Checkins extends Controller
         $checkins = $this->getCheckinsBefore($picktime);
 
         $i = 0;
-        $temp[$i++] = array('STT', 'Student', 'Type', 'Time', 'Room', 'School', 'Id_in_dor', 'Id_in_school');
+        $temp[$i++] = array('STT', 'Student', 'Type', 'Time', 'Room', 'School', 'Id_in_dor', 'Id_in_school','DOB');
         foreach ($checkins as $checkin) {
             $studentName = $checkin->student->name;
             $type = Lang::get('thienvu.comaydorm::lang.checkin.types.' . $checkin->type);
@@ -118,7 +118,8 @@ class Checkins extends Controller
             $school = $checkin->student->school->name;
             $id_in_dor = $checkin->student->id_in_dorm;
             $id_in_school = $checkin->student->id_in_school;
-            $temp[$i] = array($i, $studentName, $type, $time, $room, $school,$id_in_dor,$id_in_school);
+            $dob = $checkin->student->dob;
+            $temp[$i] = array($i, $studentName, $type, $time, $room, $school,$id_in_dor,$id_in_school,$dob);
 
             $i++;
         }
