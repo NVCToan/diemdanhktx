@@ -119,8 +119,8 @@ class Checkins extends Controller
             $id_in_dor = $checkin->student->id_in_dorm;
             $id_in_school = $checkin->student->id_in_school;
             $dob = $checkin->student->dob;
-            $rfid = $checkin->student->cards[0]->rfid_serial;
-            trace_log(is_null($rfid));
+            $rfid = $checkin->student->cards[0]->card_num;
+          
             $temp[$i] = array($i, $studentName, $type, $time, $room, $school,$id_in_dor,$id_in_school,$dob,$rfid);
 
             $i++;
