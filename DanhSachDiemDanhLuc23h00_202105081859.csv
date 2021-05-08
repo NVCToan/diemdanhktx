@@ -1,0 +1,326 @@
+﻿STT,Student,Type,Time,Room,School,Id_in_dor
+1,"Nguyễn Thị Nụ","Come in","16:33 10/10/2020",111,"Đại học Văn hóa",2018067
+2,"Nguyễn Thị Dung","Come out","21:26 10/10/2020",111,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2018015
+3,"Lê Minh Sang","Come out","22:38 10/10/2020",302,"Đại học Nông Lâm TP.HCM",2017033
+4,"Nguyễn Thị An Chiên","Come in","10:42 12/10/2020",203,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017067
+5,"Hồ Thị Thu Hiền","Come in","12:23 13/10/2020",109,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018029
+6,"Kiều Thị Kim Dung","Come in","15:30 21/10/2020",111,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2018016
+7,"Trần Nguyên Anh","Come out","18:12 12/12/2020",018,"Đại học Bách Khoa TP.HCM",2020019
+8,"Nguyễn Hoài Thanh","Come out","13:23 13/12/2020",003,"Đại học Y Dược",2020001
+9,"Nguyễn Minh Hải","Come in","18:12 18/12/2020",302,"Đại học Sư phạm Kỹ thuật TP.HCM",2017087
+10,"Võ Quốc Thắng","Come in","16:17 25/12/2020",015,"Đại học Khoa học Tự nhiên",2018081
+11,"Đặng Như Hằng","Come in","15:00 01/01/2021",104,"Đại học Bách Khoa TP.HCM",2018023
+12,"Niê Y' Yok","Come in","18:43 13/01/2021",317,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020044
+13,"Trần Nguyễn Ngọc Trâm","Come out","19:13 02/03/2021",003,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2016107
+14,"Đào Bảo Khuyên","Come in","19:13 02/03/2021",104,"Đại học Bách Khoa TP.HCM",2018043
+15,"Lê Thị Đài Trang","Come in","19:13 02/03/2021",202,"Đại học Bách Khoa TP.HCM",2018099
+16,"Đặng Thị Kim Sâm","Come in","09:45 14/03/2021",203,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017078
+17,"Huỳnh Thanh Hiếu","Come out","07:05 27/03/2021",017,"Đại học Nông Lâm TP.HCM",2018030
+18,"Trần An Khang","Come in","19:31 08/04/2021",316,"Đại học Bách Khoa TP.HCM",2019007
+19,"Trương Thị Nhi","Come in","19:31 08/04/2021",109,"Đại học Nông Lâm TP.HCM",2018062
+20,"Lê Hoàng Long","Come out","19:29 12/04/2021",306,"Đại học Nông Lâm TP.HCM",2017028
+21,"Hoàng Xuân Song","Come out","20:21 12/04/2021",301,"Khoa Y - ĐH Quốc gia TP.HCM",2016078
+22,"Nguyễn Bình An","Come in","18:44 16/04/2021",308,"Đại học Sư phạm Kỹ thuật TP.HCM",2018002
+23,"Tôn Quốc Khang","Come in","19:04 18/04/2021",308,"Đại học Sư phạm Kỹ thuật TP.HCM",2018039
+24,"Dương Thị Mỹ Hạnh","Come out","17:06 23/04/2021",206,"Đại học Ngân hàng TP.HCM",2017072
+25,"Lê Thu Hương","Come out","15:05 25/04/2021",201,"Đại học Nông Lâm TP.HCM",2017018
+26,"Võ Thành Cao Nhơn","Come out","15:11 26/04/2021",311,"Đại học Nông Lâm TP.HCM",2018063
+27,"Bùi Nguyễn Huỳnh Như","Come out","04:16 27/04/2021",206,"Đại học Ngân hàng TP.HCM",2017009
+28,"Võ Thu Uyên","Come out","04:30 27/04/2021",206,"Đại học Ngân hàng TP.HCM",2017008
+29,"Nguyễn Trung Hiếu","Come out","06:31 28/04/2021",317,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020043
+30,"Nguyễn Quốc Đông Triều","Come out","07:48 29/04/2021",308,"Đại học Khoa học Tự nhiên",2017054
+31,"Hồ Huy Luật","Come out","14:28 29/04/2021",316,"Đại học Sư phạm Kỹ thuật TP.HCM",2019009
+32,"Nguyễn Thị Kim Diệu","Come out","13:36 30/04/2021",108,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018013
+33,"Nguyễn Hữu Thiết","Come out","16:44 30/04/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020014
+34,"Trương Hải Đăng","Come out","06:09 03/05/2021",306,"Đại học Nông Lâm TP.HCM",2017035
+35,"Lê Long Cường","Come out","11:24 04/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020015
+36,"Y Đăng Ninh","Come out","16:08 04/05/2021",207,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020067
+37,"Lê Thành Hậu","Come out","11:17 05/05/2021",307,"Đại học Công nghiệp TP.HCM",2018026
+38,"Nguyễn Thị Bảo Hân","Come out","12:45 05/05/2021",108,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018021
+39,"Bùi Thanh Tiển","Come out","13:23 05/05/2021",309,"Đại học Nông Lâm TP.HCM",2018089
+40,"Phan Thị Diễm","Come out","19:14 05/05/2021",104,"Đại học Khoa học Tự nhiên",2020048
+41,"Trần Thị Thùy Trang","Come out","09:02 06/05/2021",202,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017068
+42,"Tạ Hữu Nhân","Come out","09:29 06/05/2021",307,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018060
+43,"Nguyễn Bảo Khuyên","Come out","12:44 06/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020091
+44,"Nguyễn Thị Hà Giang","Come in","14:33 06/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020063
+45,"Lê Viết Trọng","Come in","14:47 06/05/2021",018,"Đại học Bách Khoa TP.HCM",2020020
+46,"Nguyễn Minh Thiện Tâm","Come out","06:52 07/05/2021",316,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019017
+47,"Nguyễn Thị Hòe","Come out","08:38 07/05/2021",116,"Đại học Nông Lâm TP.HCM",2020053
+48,"Lâm Đức Anh","Come out","10:00 07/05/2021",308,"Đại học Khoa học Tự nhiên",2017052
+49,"Nguyễn Ngọc Đức","Come out","10:40 07/05/2021",302,"Đại học Sư phạm Kỹ thuật TP.HCM",2017040
+50,"Lê Hoàng Hương","Come in","11:06 07/05/2021",211,"Đại học Ngân hàng TP.HCM",2019040
+51,"Nguyễn Thị Thanh Nhàn","Come in","11:12 07/05/2021",211,"Đại học Ngân hàng TP.HCM",2019060
+52,"Nguyễn Phúc Khang","Come in","11:16 07/05/2021",303,"Đại học Công nghệ Thông tin",2019006
+53,"Bùi Thị Mỹ Hoa","Come out","11:26 07/05/2021",211,"Đại học Ngân hàng TP.HCM",2019037
+54,"Quách Thị Hậu","Come in","11:27 07/05/2021",107,"Đại học Nông Lâm TP.HCM",2018027
+55,"Võ Thị Nguyên","Come in","11:52 07/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020090
+56,"Danh Thị Bích Vân","Come in","11:55 07/05/2021",115,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019078
+57,"Lê Thị Loan","Come in","12:47 07/05/2021",217,"Đại học Sài Gòn",2019049
+58,"Nguyễn Tiến Phúc","Come out","12:48 07/05/2021",017,"Đại học Nông Lâm TP.HCM",2019013
+59,"Phạm Thị Huyền","Come out","12:50 07/05/2021",204,"Đại học Nông Lâm TP.HCM",2017065
+60,"Nguyễn Thanh Tâm","Come in","12:51 07/05/2021",212,"Đại học Nông Lâm TP.HCM",2020081
+61,"Nguyễn Thanh Ngọc Yến","Come in","14:43 07/05/2021",217,"Đại học Nông Lâm TP.HCM",2019080
+62,"Nguyễn Nhựt Minh","Come in","18:01 07/05/2021",017,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019010
+63,"Trịnh Thị Huyền Trang","Come in","18:21 07/05/2021",109,"Đại học Nông Lâm TP.HCM",2018096
+64,"Phạm Thị Huỳnh Nhi","Come in","18:35 07/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020094
+65,"Trần Tiểu Ngọc","Come in","18:45 07/05/2021",217,"Đại học Sư phạm TP.HCM",2019059
+66,"Lê Minh Hồ","Come in","19:02 07/05/2021",306,"Đại học Nông Lâm TP.HCM",2018032
+67,"Trần Kiến Nam","Come in","19:47 07/05/2021",302,"Đại học Nông Lâm TP.HCM",2017026
+68,"Vũ Thị Thu Thảo","Come in","19:59 07/05/2021",118,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",4243547
+69,"Nguyễn Thị Anh Thư","Come in","20:06 07/05/2021",116,"Đại học Nông Lâm TP.HCM",2020054
+70,"Mai Trúc Phượng","Come in","20:09 07/05/2021",203,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017081
+71,"Phan Văn Thịnh","Come in","20:40 07/05/2021",315,"Đại học Nông Lâm TP.HCM",2020033
+72,"Từ Thiện Trí Thức","Come in","21:05 07/05/2021",306,"Đại học Nông Lâm TP.HCM",2017031
+73,"Phạm Thị Thế","Come in","21:07 07/05/2021",204,"Đại học Nông Lâm TP.HCM",2017059
+74,"Lê Thị Thanh Ngân","Come in","21:07 07/05/2021",102,"Đại học Bách Khoa TP.HCM",2019055
+75,"Lê Trần Mỹ Hoa","Come in","21:07 07/05/2021",102,"Đại học Bách Khoa TP.HCM",2019038
+76,"Trương Thanh Tiền","Come in","21:34 07/05/2021",116,"Đại học Nông Lâm TP.HCM",2020051
+77,"Trịnh Thị Thanh Vỷ","Come in","21:35 07/05/2021",209,"Đại học Nông Lâm TP.HCM",2020075
+78,"Ngô Thanh Hạnh","Come in","22:23 07/05/2021",311,"Đại học Nông Lâm TP.HCM",2018024
+79,"Bùi Văn Hưng","Come in","22:27 07/05/2021",317,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020042
+80,"Nguyễn Văn Khang","Come in","22:36 07/05/2021",301,"Đại học Bách Khoa TP.HCM",2018038
+81,"Lê Minh Như Nguyệt","Come in","22:49 07/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020093
+82,"Nguyễn Văn Thanh","Come in","22:53 07/05/2021",015,"Đại học Nông Lâm TP.HCM",2020002
+83,"Huỳnh Thanh Huyên","Come in","23:00 07/05/2021",118,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019042
+84,"Nguyễn Như Tâm","Come in","06:12 08/05/2021",114,"Đại học Sư phạm Kỹ thuật TP.HCM",2018079
+85,"Nguyễn Thị Vân","Come out","06:16 08/05/2021",106,"Đại học Ngân hàng TP.HCM",2018106
+86,"Thái Thị Ngọc Linh","Come out","06:17 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019047
+87,"Nguyễn Thị Lan","Come out","06:17 08/05/2021",103,"Đại học Luật TP.HCM",2017024
+88,"Lê Thị Minh Thư","Come out","06:22 08/05/2021",115,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019069
+89,"Nguyễn Gia Trung","Come out","06:29 08/05/2021",018,"Đại học Bách Khoa TP.HCM",2020021
+90,"Trần Nguyễn Quỳnh Như","Come out","06:37 08/05/2021",211,"Đại học Ngân hàng TP.HCM",2019062
+91,"Huỳnh Hiếu Nhơn","Come out","06:41 08/05/2021",303,"Đại học Bách Khoa TP.HCM",2019012
+92,"Trần Ngọc Quyên","Come out","06:43 08/05/2021",115,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019066
+93,"Phạm Thị Vi","Come out","06:53 08/05/2021",212,"Đại học Ngân hàng TP.HCM",2020083
+94,"Trần Thị Kim Trinh","Come out","06:59 08/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020060
+95,"NGUYỄN THỊ NGỌC BÍCH","Come in","07:05 08/05/2021",204,"Đại học Nông Lâm TP.HCM",2017086
+96,"Lê Thị Mỹ Hạnh","Come out","07:07 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018025
+97,"Trần Thị Thùy Trang","Come out","07:08 08/05/2021",207,"Đại học Kinh tế TP.HCM",2020072
+98,"Phạm Ngọc Hiệu","Come out","07:17 08/05/2021",308,"Đại học Bách Khoa TP.HCM",2017044
+99,"Lê Dương Thùy Linh","Come out","07:21 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019046
+100,"Nguyễn Linh Chi","Come out","07:22 08/05/2021",211,"Đại học Ngân hàng TP.HCM",2019026
+101,"Nguyễn Tiểu Băng","Come out","07:22 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2017017
+102,"Lê Thị Hồng Hạnh","Come out","07:27 08/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020064
+103,"Nguyễn Thị Ái Liên","Come out","07:32 08/05/2021",204,"Đại học Nông Lâm TP.HCM",2017066
+104,"Nguyễn Thanh Hòa","Come out","07:33 08/05/2021",001,"Đại học Nông Lâm TP.HCM",2020004
+105,"Nguyễn Cao Huyên","Come in","07:35 08/05/2021",114,"Đại học Luật TP.HCM",2018037
+106,"Kiều Ái Vi","Come in","07:39 08/05/2021",207,"Đại học Kinh tế TP.HCM",2020071
+107,"Phan Thị Thu An","Come in","07:44 08/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020061
+108,"Nguyễn Thị Thanh Trúc","Come out","07:54 08/05/2021",216,"Đại học Sài Gòn",2020095
+109,"Lê Thị Thu Trang","Come out","07:57 08/05/2021",111,"Đại học Công nghiệp TP.HCM",2018097
+110,"Ngô Thị Thiên Thảo","Come out","08:00 08/05/2021",111,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2018085
+111,"Nguyễn Thị Kim Tuyến","Come in","08:01 08/05/2021",203,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017077
+112,"Hồ Hữu Lực","Come out","08:01 08/05/2021",311,"Đại học Nông Lâm TP.HCM",2018050
+113,"Phạm Quỳnh Trâm","Come out","08:02 08/05/2021",217,"Đại học Nông Lâm TP.HCM",2019073
+114,"Trần Ngọc Hưởng","Come in","08:03 08/05/2021",315,"Đại học Công nghiệp TP.HCM",2020034
+115,"Lục Thị Tám","Come out","08:08 08/05/2021",217,"Đại học Nông Lâm TP.HCM",2019067
+116,"Nguyễn Thị Hồng Yến","Come in","08:26 08/05/2021",109,"Đại học Nông Lâm TP.HCM",2018108
+117,"Lăng Bảo Khanh","Come in","08:30 08/05/2021",307,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2018040
+118,"Sử Thị Thanh Lan","Come out","08:35 08/05/2021",211,"Đại học Ngân hàng TP.HCM",2019044
+119,"Nguyễn Thị Khánh Linh","Come out","08:40 08/05/2021",103,"Đại học Khoa học Tự nhiên",2017071
+120,"Nguyễn Thị Huệ","Come out","08:41 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2016039
+121,"Lại Thị Ngọc Huệ","Come in","08:54 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019039
+122,"Nguyễn Kim Giang","Come out","08:56 08/05/2021",118,"Đại học Kinh tế TP.HCM",2019029
+123,"La Tuyết Nhi","Come in","09:02 08/05/2021",101,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2017076
+124,"Đặng Tuấn Khanh","Come in","09:04 08/05/2021",317,"Đại học Nông Lâm TP.HCM",2020038
+125,"Nguyễn Thị Mi Mi","Come in","09:06 08/05/2021",204,"Đại học Nông Lâm TP.HCM",2017057
+126,"Bùi Lê Bảo Trân","Come in","09:16 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2017012
+127,"Nguyễn Trường An","Come out","09:19 08/05/2021",309,"Đại học Sư phạm Kỹ thuật TP.HCM",2018001
+128,"Võ Trọng Hiếu","Come in","09:21 08/05/2021",302,"Đại học Sư phạm Kỹ thuật TP.HCM",2017038
+129,"Nguyễn Thị Vân Anh","Come out","09:39 08/05/2021",203,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017083
+130,"Hồ Xuân Vũ Quốc Huy","Come in","09:39 08/05/2021",314,"Đại học Khoa học Tự nhiên",2020028
+131,"Phan Văn Cảnh","Come out","09:58 08/05/2021",302,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017049
+132,"Hồ Minh Tân","Come in","09:59 08/05/2021",306,"Đại học Nông Lâm TP.HCM",2017034
+133,"Võ Thành Phú","Come in","10:04 08/05/2021",018,"Đại học Bách Khoa TP.HCM",2020018
+134,"Mã Phượng Thi","Come out","10:07 08/05/2021",203,"Đại học Bách Khoa TP.HCM",2017082
+135,"Nguyễn Thị Mỹ Lệ","Come out","10:10 08/05/2021",212,"Đại học Ngân hàng TP.HCM",2020082
+136,"Lê Thị Mỹ Linh","Come out","10:22 08/05/2021",209,"Đại học Nông Lâm TP.HCM",2020078
+137,"Nguyễn Trung Hiếu","Come in","10:23 08/05/2021",301,"Đại học Sư phạm Kỹ thuật TP.HCM",2018031
+138,"Nguyễn Thị Thùy Trinh","Come in","10:36 08/05/2021",101,"Đại học Sư phạm Kỹ thuật TP.HCM",2017019
+139,"Nguyễn Thị Liễu","Come in","10:37 08/05/2021",204,"Đại học Nông Lâm TP.HCM",2017058
+140,"Tô Nhật Linh","Come out","10:39 08/05/2021",111,"Đại học Kinh tế TP.HCM",2018047
+141,"Nguyễn Lương Hoài Thương","Come out","10:41 08/05/2021",207,"Đại học Lao động Xã hội – Cơ sở TP.HCM",2020070
+142,"Phan Thị Huyền Dịu","Come in","10:41 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018014
+143,"Võ Thị Trọng","Come in","10:47 08/05/2021",212,"Đại học Ngân hàng TP.HCM",2020084
+144,"Lê Minh Hiếu","Come out","10:51 08/05/2021",306,"Đại học Nông Lâm TP.HCM",2017027
+145,"Phan Thị Quỳnh Hương","Come out","10:52 08/05/2021",103,"Đại học Luật TP.HCM",2017021
+146,"Nguyễn Linh Tâm","Come in","10:58 08/05/2021",301,"Đại học Bách Khoa TP.HCM",2018078
+147,"Vương Ban","Come in","10:58 08/05/2021",301,"Đại học Bách Khoa TP.HCM",2018006
+148,"Trần Thị Mỹ Duyên","Come out","10:59 08/05/2021",103,"Đại học Nông Lâm TP.HCM",2017061
+149,"Võ Thị Kiều My","Come in","11:09 08/05/2021",212,"Đại học Ngân hàng TP.HCM",2020087
+150,"Vũ Khánh Băng","Come in","11:13 08/05/2021",209,"Đại học Nông Lâm TP.HCM",2020079
+151,"Nguyễn Thị Mỹ Hạ","Come in","11:17 08/05/2021",211,"Đại học Ngân hàng TP.HCM",2019030
+152,"Nguyễn Thị Hằng","Come in","11:19 08/05/2021",118,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019033
+153,"Mai Công Tuấn Kiệt","Come in","11:23 08/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020017
+154,"Lê Thị Mỹ Chi","Come in","11:24 08/05/2021",203,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2017084
+155,"Đỗ Hoàng Nam","Come in","11:25 08/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020011
+156,"Đặng Thị Thanh Tuyền","Come in","11:26 08/05/2021",217,"Đại học Nông Lâm TP.HCM",2019075
+157,"Nguyễn Tấn Tài","Come in","11:31 08/05/2021",314,"Đại học Nông Lâm TP.HCM",2020030
+158,"Phạm Quang Minh","Come in","11:34 08/05/2021",308,"Đại học Bách Khoa TP.HCM",2017046
+159,"Đặng Thị Phương","Come in","11:37 08/05/2021",212,"Đại học Ngân hàng TP.HCM",2020086
+160,"Nguyễn Trần Anh Thư","Come in","11:38 08/05/2021",216,"Đại học Tài chính - Marketing",2020100
+161,"Lê Ngọc Như Ý","Come in","11:38 08/05/2021",216,"Đại học Tài chính - Marketing",2020099
+162,"Lê Thị Kim Ngân","Come in","11:40 08/05/2021",115,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019054
+163,"Bùi Nguyễn Hoàng Trâm","Come out","11:41 08/05/2021",115,"Đại học Kiến trúc TP.HCM",2019072
+164,"Phan Phú Sơn","Come in","11:42 08/05/2021",307,"Đại học Giao thông vận tải TP.HCM",2018077
+165,"Trần Minh Thư","Come in","11:42 08/05/2021",216,"Đại học Tài chính - Marketing",2020102
+166,"Đỗ Thị Đào","Come in","11:44 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019027
+167,"Nguyễn Thị Thủy Tiên","Come in","11:45 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018111
+168,"Võ Thị Mỹ Oanh","Come in","11:45 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019063
+169,"Nguyễn Như Anh Thư","Come in","11:45 08/05/2021",206,"Đại học Ngân hàng TP.HCM",2017080
+170,"Nguyễn Thị Bình","Come in","11:47 08/05/2021",103,"Đại học Công nghệ Thông tin",2017070
+171,"Trần Văn Thế","Come in","11:48 08/05/2021",018,"Đại học Công nghệ Thông tin",2020025
+172,"Trần Nhựt Trường","Come in","11:50 08/05/2021",017,"Đại học Nông Lâm TP.HCM",2019022
+173,"Nguyễn Thị Lành","Come in","11:50 08/05/2021",101,"Đại học Ngoại thương – Cơ sở phía Nam",2018046
+174,"Nguyễn Thị Xuân Mai","Come in","11:50 08/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020092
+175,"Đoàn Thị Thu Hường","Come in","11:50 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019041
+176,"Nguyễn Y Phụng","Come in","11:50 08/05/2021",103,"Đại học Khoa học Tự nhiên",2018069
+177,"Võ Thị Mỹ Châu","Come in","11:50 08/05/2021",114,"Đại học Sư phạm Kỹ thuật TP.HCM",2018007
+178,"Đoàn Thị Phương Thảo","Come in","11:51 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2017016
+179,"Hồ Huỳnh Tuyết Linh","Come in","11:51 08/05/2021",209,"Đại học Nông Lâm TP.HCM",2020076
+180,"Nguyễn Hòa Kim Thái","Come in","11:51 08/05/2021",209,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2020080
+181,"Lê Hoàng Khánh Linh","Come in","11:53 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018049
+182,"Lê Hoàng Mộng Tuyền","Come in","11:53 08/05/2021",106,"Đại học Khoa học Tự nhiên",2018104
+183,"NGUYỄN THỊ HUYỀN TRÂN","Come in","11:57 08/05/2021",114,"Đại học Sư phạm Kỹ thuật TP.HCM",2018095
+184,"Trần Khánh Dân","Come in","11:57 08/05/2021",302,"Đại học Nông Lâm TP.HCM",2017032
+185,"Phạm Thị Thu Hằng","Come in","11:57 08/05/2021",101,"Đại học Ngoại thương – Cơ sở phía Nam",2017007
+186,"Nguyễn Thị Ngọc Ánh","Come in","11:57 08/05/2021",207,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020066
+187,"Nguyễn Đình Duẩn","Come in","12:03 08/05/2021",303,"Đại học Bách Khoa TP.HCM",2019002
+188,"Mai Lê Tiến Phát","Come in","12:06 08/05/2021",015,"Đại học Nông Lâm TP.HCM",2020006
+189,"Lê Tuấn Anh","Come in","12:06 08/05/2021",015,"Đại học Nông Lâm TP.HCM",2020008
+190,"Nguyễn Văn Khánh","Come in","12:06 08/05/2021",015,"Đại học Nông Lâm TP.HCM",2020003
+191,"Lâm Thị Ngọc Nhi","Come in","12:07 08/05/2021",102,"Đại học Bách Khoa TP.HCM",2019061
+192,"Vi Thị Thạnh","Come in","12:08 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018110
+193,"Huỳnh Thị Thanh Tuyền","Come in","12:08 08/05/2021",106,"Đại học Khoa học Tự nhiên",2018103
+194,"Đinh Văn Cơ","Come in","12:13 08/05/2021",303,"Đại học Công nghệ Thông tin",2019001
+195,"Trần Thanh Trọng","Come in","12:14 08/05/2021",315,"Đại học Giao thông vận tải TP.HCM",2020035
+196,"Bùi Trương Kim Hồng","Come in","12:15 08/05/2021",104,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020049
+197,"Thái Thanh Sơn","Come in","12:16 08/05/2021",316,"Đại học Kiến trúc TP.HCM",2019016
+198,"Phạm Dương Huyền Nga","Come in","12:18 08/05/2021",104,"Đại học Kiến trúc TP.HCM",2020046
+199,"Võ Ngọc Phương Uyên","Come in","12:18 08/05/2021",104,"Đại học Công nghiệp TP.HCM",2020047
+200,"Nguyễn Trần Sang","Come in","12:18 08/05/2021",301,"Đại học Bách Khoa TP.HCM",2018076
+201,"Tô Thị Nhật Nguyệt","Come in","12:19 08/05/2021",103,"Đại học Nông Lâm TP.HCM",2018059
+202,"Nguyễn Phan Bảo Trân","Come out","12:21 08/05/2021",115,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019074
+203,"Huỳnh Trọng Nhân","Come in","12:21 08/05/2021",314,"Đại học Khoa học Tự nhiên",2020026
+204,"Nguyễn Thị Kim Ngân","Come in","12:21 08/05/2021",106,"Đại học Ngân hàng TP.HCM",2018109
+205,"Nguyễn Thị Lưu Luyến","Come in","12:24 08/05/2021",104,"Đại học Nông Lâm TP.HCM",2020045
+206,"Nguyễn Lương Quỳnh Như","Come in","12:24 08/05/2021",104,"Đại học Sư phạm Kỹ thuật TP.HCM",2020050
+207,"Nguyễn Thị Hợp","Come in","12:25 08/05/2021",108,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018035
+208,"Tạ Như Huỳnh","Come in","12:26 08/05/2021",116,"Đại học Nông Lâm TP.HCM",2020055
+209,"Đàng Như Nghĩa","Come in","12:27 08/05/2021",307,"Đại học Mở TP.HCM",2018056
+210,"Nguyễn Phương Tính","Come in","12:27 08/05/2021",309,"Đại học Sư phạm Kỹ thuật TP.HCM",2018091
+211,"Lê Văn Huy Hoàng","Come in","12:29 08/05/2021",314,"Học viện Công nghệ Bưu chính Viễn thông – Cơ sở TP.HCM",2020031
+212,"Nguyễn Phúc Hoài Linh","Come in","12:29 08/05/2021",308,"Đại học Giao thông vận tải - Cơ sở 2",2017088
+213,"Trần Thị Mỹ Lệ","Come out","12:32 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019045
+214,"Hồ Xuân Hiếu","Come out","12:35 08/05/2021",018,"Đại học Bách Khoa TP.HCM",2020022
+215,"Trương Thị Mỹ Hiệp","Come out","12:37 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019036
+216,"Lâm Lê Thanh Tuyền","Come in","12:39 08/05/2021",115,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019076
+217,"Phạm Vũ Lâm","Come in","12:43 08/05/2021",307,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018045
+218,"Nguyễn Thành Mỹ","Come in","12:45 08/05/2021",302,"Đại học Nông Lâm TP.HCM",2017030
+219,"Võ Thị Hoài Linh","Come out","12:47 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019048
+220,"Trịnh Thị Thu Sương","Come in","12:52 08/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020062
+221,"Nguyễn Công Thắng","Come in","13:05 08/05/2021",303,"Đại học Bách Khoa TP.HCM",2019018
+222,"Huỳnh Thị Kim Nhung","Come in","13:05 08/05/2021",114,"Đại học Luật TP.HCM",2018066
+223,"Nguyễn Đình Quốc","Come in","13:07 08/05/2021",317,"Đại học Sư phạm TP.HCM",2020041
+224,"Nguyễn Minh Quân","Come in","13:07 08/05/2021",317,"Đại học Sư phạm Kỹ thuật TP.HCM",2020039
+225,"Đặng Tấn Dương","Come in","13:11 08/05/2021",311,"Đại học Nông Lâm TP.HCM",2018017
+226,"Hồ Thị Thúy Hiền","Come in","13:11 08/05/2021",111,"Đại học Công nghiệp TP.HCM",2018028
+227,"Phan Kim Khánh","Come in","13:13 08/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020088
+228,"Bình Trịnh Thắng","Come in","13:14 08/05/2021",309,"Đại học Sư phạm Kỹ thuật TP.HCM",2018080
+229,"Trần Thị My My","Come out","13:17 08/05/2021",116,"Đại học Nông Lâm TP.HCM",2020052
+230,"Nguyễn Thị Như Quỳnh","Come in","13:18 08/05/2021",114,"Đại học Sài Gòn",2018073
+231,"Nguyễn Thị Trang","Come in","13:27 08/05/2021",206,"Đại học Ngân hàng TP.HCM",2018100
+232,"Nguyễn Lê Nhật Duy","Come in","13:31 08/05/2021",306,"Đại học Nông Lâm TP.HCM",2017029
+233,"Nguyễn Thị Thúy Quỳnh","Come in","13:33 08/05/2021",108,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018071
+234,"Tống Đức Duy","Come in","13:40 08/05/2021",309,"Đại học Sư phạm Kỹ thuật TP.HCM",2018018
+235,"Hoàng Văn Tình","Come in","13:43 08/05/2021",306,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2018092
+236,"Trịnh Thị Hoài Lam","Come out","13:47 08/05/2021",114,"Đại học Sư phạm Kỹ thuật TP.HCM",2018044
+237,"Cổ Trọng Toàn","Come in","13:47 08/05/2021",303,"Đại học Bách Khoa TP.HCM",2019019
+238,"Nguyễn Thị Thúy Diễm","Come in","13:50 08/05/2021",214,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020089
+239,"Nguyễn Dũy Long","Come in","13:52 08/05/2021",316,"Đại học Nông Lâm TP.HCM",2019008
+240,"Nguyễn Lam Trường","Come out","13:57 08/05/2021",311,"Đại học Nông Lâm TP.HCM",2018101
+241,"Nguyễn Thị Minh Hoa","Come in","14:03 08/05/2021",206,"Đại học Ngân hàng TP.HCM",2017010
+242,"Nguyễn Thị Thanh Thùy","Come out","14:09 08/05/2021",106,"Đại học Ngân hàng TP.HCM",2018112
+243,"Huỳnh Nguyễn Như Ý","Come out","14:10 08/05/2021",208,"Đại học Kiến trúc TP.HCM",2019079
+244,"Huỳnh Thị Kim Tuyền","Come out","14:14 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2017015
+245,"Nguyễn Thị Lệ Ngân","Come in","14:16 08/05/2021",102,"Đại học Ngoại thương – Cơ sở phía Nam",2019056
+246,"Nguyễn Thị Huyền Trân","Come in","14:18 08/05/2021",106,"Đại học Ngân hàng TP.HCM",2018094
+247,"Lê Đình Lợi","Come out","14:23 08/05/2021",315,"Đại học Công nghiệp TP.HCM",2020036
+248,"Nguyễn Thị Mỹ Duyên","Come out","14:27 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018020
+249,"Trần Thị Lam Linh","Come out","14:27 08/05/2021",206,"Đại học Nông Lâm TP.HCM",2017062
+250,"Nguyễn Thanh Hải","Come out","14:31 08/05/2021",315,"Đại học Kiến trúc TP.HCM",2020032
+251,"Lê Thị Hồng Gấm","Come in","14:31 08/05/2021",101,"Đại học Sư phạm Kỹ thuật TP.HCM",2017079
+252,"Nguyễn Nhật An","Come out","14:31 08/05/2021",015,"Đại học Nông Lâm TP.HCM",2020007
+253,"Trần An Khang","Come out","14:32 08/05/2021",316,"Đại học Bách Khoa TP.HCM",2019007
+254,"Trần Đình Sâm","Come in","14:33 08/05/2021",309,"Đại học Nông Lâm TP.HCM",2018075
+255,"Nguyễn Võ Song Toàn","Come out","14:38 08/05/2021",018,"Đại học Sư phạm Kỹ thuật TP.HCM",2020023
+256,"Trần Thị Hương Thảo","Come out","14:39 08/05/2021",111,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2018084
+257,"Hà Ngọc Trâm","Come in","14:41 08/05/2021",109,"Đại học Nông Lâm TP.HCM",2018115
+258,"Nguyễn Thị Thạch","Come in","14:43 08/05/2021",216,"Đại học Khoa học Tự nhiên",2020097
+259,"Trần Thị Kiều","Come in","14:48 08/05/2021",101,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2017011
+260,"Lê Thị Lan Mai","Come in","14:48 08/05/2021",107,"Đại học Nông Lâm TP.HCM",2018053
+261,"Nguyễn Thị Thanh Trúc","Come in","14:49 08/05/2021",216,"Đại học Khoa học Tự nhiên",2020098
+262,"Trương Thị Thúy Diễm","Come in","14:51 08/05/2021",118,"Đại học Kinh tế TP.HCM",2019028
+263,"Trần Văn Tính","Come in","14:56 08/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020013
+264,"Phạm Thị Hậu","Come in","14:59 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019035
+265,"Đinh Thị Ngọc Ánh","Come in","15:01 08/05/2021",206,"Đại học Nông Lâm TP.HCM",2017060
+266,"Nguyễn Thị Như Tuyền","Come out","15:10 08/05/2021",217,"Đại học Nông Lâm TP.HCM",2019077
+267,"Trầm Việt Trung","Come in","15:18 08/05/2021",017,"Đại học Nông Lâm TP.HCM",2019021
+268,"Hoàng Thị Quỳnh Anh","Come in","15:21 08/05/2021",118,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019023
+269,"Huỳnh Thị Trúc Linh","Come in","15:22 08/05/2021",114,"Đại học Sư phạm Kỹ thuật TP.HCM",2018048
+270,"Lê Xuân Tiến","Come in","15:22 08/05/2021",314,"Đại học Khoa học Tự nhiên",2020029
+271,"Phan Thị Bảo Trung","Come in","15:24 08/05/2021",204,"Đại học Nông Lâm TP.HCM",2017064
+272,"Nguyễn Hoài Bảo","Come out","15:26 08/05/2021",307,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018113
+273,"Lê Quang Đông","Come out","15:27 08/05/2021",018,"Đại học Công nghệ Thông tin",2020024
+274,"Nguyễn Cẩm Như","Come in","15:29 08/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020065
+275,"Tăng Thị Thái","Come out","15:35 08/05/2021",207,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020069
+276,"Nguyễn Thị Lan Anh","Come in","15:41 08/05/2021",118,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019024
+277,"Huỳnh Thị Hài","Come in","15:44 08/05/2021",216,"Đại học Khoa học Tự nhiên",2020096
+278,"Nguyễn Thị Lan Châu","Come in","15:45 08/05/2021",106,"Đại học Ngân hàng TP.HCM",2018008
+279,"Nguyễn Thị Băng Châu","Come in","15:45 08/05/2021",116,"Đại học Nông Lâm TP.HCM",2020058
+280,"Lê Văn Nhật Tuấn","Come out","15:46 08/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020010
+281,"Nguyễn Văn Quyền","Come in","15:50 08/05/2021",017,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019014
+282,"Nguyễn Lê Công Quý","Come in","15:52 08/05/2021",314,"Đại học Khoa học Tự nhiên",2020027
+283,"Nguyễn Thị Diễm Thúy","Come in","16:00 08/05/2021",115,"Đại học Kiến trúc TP.HCM",2019070
+284,"Nguyễn Thanh Tốt","Come in","16:04 08/05/2021",017,"Đại học Nông Lâm TP.HCM",2019020
+285,"Lê Thị Hợp","Come out","16:08 08/05/2021",106,"Đại học Ngân hàng TP.HCM",2018034
+286,"Lê Văn Ni","Come out","16:08 08/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020012
+287,"Võ Thị Thu Hạnh","Come in","16:08 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019034
+288,"Đặng Thị Kim Thoa","Come in","16:08 08/05/2021",108,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2018086
+289,"Trần Thị Phương Thúy","Come in","16:11 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2017014
+290,"Phan Thị Thảo Quyên","Come in","16:11 08/05/2021",201,"Đại học Nông Lâm TP.HCM",2017013
+291,"Phạm Ngọc Nhất","Come in","16:15 08/05/2021",016,"Đại học Sư phạm Kỹ thuật TP.HCM",2020016
+292,"Trần Thi Yến Ly","Come in","16:16 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019050
+293,"Nguyễn Dĩ Khang","Come out","16:16 08/05/2021",303,"Đại học Bách Khoa TP.HCM",2019005
+294,"Nguyễn Thị Mộng Huyền","Come in","16:16 08/05/2021",116,"Đại học Nông Lâm TP.HCM",2020057
+295,"Nguyễn Thị Ngọc Linh","Come in","16:19 08/05/2021",207,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020068
+296,"Lê Bảo Hi","Come in","16:19 08/05/2021",017,"Đại học Nông Lâm TP.HCM",2019004
+297,"Nguyễn Tấn Nguyên","Come in","16:20 08/05/2021",316,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019011
+298,"Lê Thị Mỹ Hân","Come in","16:21 08/05/2021",109,"Đại học Bách Khoa TP.HCM",2018022
+299,"Trương Trí Hào","Come out","16:23 08/05/2021",315,"Đại học Công nghệ Thông tin",2020103
+300,"Nông Thị Thủy","Come in","16:23 08/05/2021",109,"Đại học Nông Lâm TP.HCM",2018088
+301,"Nguyễn Thị Hoài Thương","Come in","16:26 08/05/2021",101,"Đại học Sư phạm TP.HCM",2017073
+302,"Trần Thị Tuyết Mai","Come in","16:27 08/05/2021",102,"Đại học Sư phạm Kỹ thuật TP.HCM",2019053
+303,"Trương Lâm Quế Trâm","Come in","16:29 08/05/2021",209,"Đại học Nông Lâm TP.HCM",2020077
+304,"Phan Thị Hồng Sang","Come in","16:29 08/05/2021",209,"Đại học Nông Lâm TP.HCM",2020073
+305,"Huỳnh Thị Thúy Hằng","Come out","16:32 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019032
+306,"Dương Thị Phượng Hằng","Come out","16:32 08/05/2021",208,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2019031
+307,"Nguyễn Thị Kim Ngân","Come in","16:33 08/05/2021",209,"Đại học Nông Lâm TP.HCM",2020074
+308,"Dương Thế Bích","Come out","16:33 08/05/2021",211,"Đại học Ngân hàng TP.HCM",2019025
+309,"Nguyễn Y Phụng","Come in","16:34 08/05/2021",103,"Đại học Khoa học Tự nhiên",2018069
+310,"Danh Thị Bích Ngọc","Come out","16:37 08/05/2021",118,"Đại học Kinh tế - Luật (ĐH Quốc gia TP.HCM)",2019058
+311,"Vy Viết Kim Ngân","Come in","16:38 08/05/2021",102,"Đại học Khoa học Tự nhiên",2019057
+312,"Hoàng Phạm Như Lý","Come in","16:38 08/05/2021",102,"Đại học Công nghệ Thông tin",2019051
+313,"Mai Thị Khánh Huyền","Come in","16:38 08/05/2021",102,"Đại học Bách Khoa TP.HCM",2019043
+314,"Bùi Thị Tuyết Mai","Come in","16:39 08/05/2021",116,"Đại học Nông Lâm TP.HCM",2020056
+315,"Trần Thị Ái Liên","Come in","16:41 08/05/2021",103,"Đại học Nông Lâm TP.HCM",2017063
+316,"Đoàn Thị Mỹ Tiên","Come in","16:44 08/05/2021",217,"Đại học Nông Lâm TP.HCM",2019071
+317,"Võ Thị Bích Thuận","Come in","16:44 08/05/2021",212,"Đại học Ngân hàng TP.HCM",2020085
+318,"Trà Hoàng Kha","Come out","16:44 08/05/2021",015,"Đại học Nông Lâm TP.HCM",2020009
+319,"Đoàn Thị Thanh Phương","Come in","16:45 08/05/2021",202,"Đại học Sư phạm Kỹ thuật TP.HCM",2020059
+320,"Nguyễn Thị Xuân Mai","Come out","16:46 08/05/2021",215,"Đại học Nông Lâm TP.HCM",2019052
+321,"Nguyễn Ngọc Thông","Come out","16:46 08/05/2021",315,"Học viện Công nghệ Bưu chính Viễn thông – Cơ sở TP.HCM",2020037
+322,"Ngô Nguyễn Anh Khoa","Come out","16:47 08/05/2021",311,"Đại học Nông Lâm TP.HCM",2018041
+323,"Hồ Hữu Bình","Come in","16:47 08/05/2021",015,"Đại học Nông Lâm TP.HCM",2020005
+324,"Lâm Văn Nhựt","Come out","16:47 08/05/2021",317,"Đại học Khoa học xã hội và Nhân văn - ĐHQG TP.HCM",2020040
+325,"Nguyễn Võ Công Toàn","Come in","18:57 08/05/2021",309,"Đại học Nông Lâm TP.HCM",2018093
