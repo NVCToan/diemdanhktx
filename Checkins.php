@@ -117,7 +117,7 @@ class Checkins extends Controller
             $room = $checkin->student->room->name;
             $school = $checkin->student->school->name;
             $id_in_dor = $checkin->student->id_in_dorm;
-            trace_log($checkin->student->id_in_dorm);
+            
             $temp[$i] = array($i, $studentName, $type, $time, $room, $school,$id_in_dor);
 
             $i++;
